@@ -1,1 +1,1 @@
-# Striver-Sheet
+# DSA PRACTICE
